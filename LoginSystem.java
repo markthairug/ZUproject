@@ -26,15 +26,16 @@ public class LoginSystem {
             String password = String.valueOf(passwordArray);
 
             if (username.equals(correctUsername) && password.equals(correctPassword)) {
-                System.out.println("Login successful ✅ Welcome " + username);
+                System.out.println("Login successful  Welcome " + username);
                 return;
             } else {
                 attempts--;
-                System.out.println("Invalid username or password ❌");
+                System.out.println("Invalid username or password ");
                 System.out.println("Attempts remaining: " + attempts);
             }
         }
 
         System.out.println("Account locked 🚫 Too many failed attempts.");
     }
+
 }
