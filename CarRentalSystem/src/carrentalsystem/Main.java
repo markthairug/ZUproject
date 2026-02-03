@@ -34,7 +34,7 @@ public class Main {
                     double price = scanner.nextDouble();
 
                     agency.addCar(new Car(carId, model, price));
-                    System.out.println("✅ Car added successfully.");
+                    System.out.println("Car added successfully.");
                     break;
 
                 case 2:
@@ -45,7 +45,7 @@ public class Main {
                     String name = scanner.nextLine();
 
                     agency.addCustomer(new Customer(customerId, name));
-                    System.out.println("✅ Customer added successfully.");
+                    System.out.println("Customer added successfully.");
                     break;
 
                 case 3:
@@ -65,9 +65,9 @@ public class Main {
                         System.out.println("Customer: " + rental.getCustomer().getName());
                         System.out.println("Car: " + rental.getCar().getModel());
                         System.out.println("Days: " + days);
-                        System.out.println("Total Cost: $" + rental.calculateCost());
+                        System.out.println("Total Cost: ksh" + rental.calculateCost());
                     } else {
-                        System.out.println("❌ Rental failed. Check IDs or availability.");
+                        System.out.println("Rental failed. Check IDs or availability.");
                     }
                     break;
 
@@ -75,19 +75,20 @@ public class Main {
                     System.out.print("Enter Car ID to return: ");
                     String returnCarId = scanner.nextLine();
                     agency.returnCar(returnCarId);
-                    System.out.println("✅ Car returned successfully.");
+                    System.out.println("Car returned successfully.");
                     break;
 
                 case 5:
-                    System.out.println("👋 Exiting system. Goodbye!");
+                    System.out.println("Exiting system. Goodbye!");
                     break;
 
                 default:
-                    System.out.println("❌ Invalid option. Try again.");
+                    System.out.println("Invalid option. Try again.");
             }
 
         } while (choice != 5);
 
         scanner.close();
     }
+
 }
