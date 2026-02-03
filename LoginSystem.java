@@ -35,7 +35,8 @@ public class LoginSystem {
             }
         }
 
-        System.out.println("Account locked 🚫 Too many failed attempts.");
+        System.out.println("Account locked Too many failed attempts.");
     }
 
 }
+
