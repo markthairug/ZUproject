@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class RadioButtonDemo extends JFrame implements ActionListener {
+public class RadioButton extends JFrame implements ActionListener {
 
     // Radio buttons
     private final JRadioButton bird, cat, dog, rabbit, pig;
@@ -89,4 +89,5 @@ public class RadioButtonDemo extends JFrame implements ActionListener {
         // Run GUI in Event Dispatch Thread
         SwingUtilities.invokeLater(() -> new RadioButtonDemo());
     }
+
 }
