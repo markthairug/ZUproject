@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\bin\Debug\net10.0\QuickMartPos.exe
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\bin\Debug\net10.0\QuickMartPos.deps.json
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\bin\Debug\net10.0\QuickMartPos.runtimeconfig.json
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\bin\Debug\net10.0\QuickMartPos.dll
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\bin\Debug\net10.0\QuickMartPos.pdb
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.dll
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\refint\QuickMartPos.dll
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.pdb
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMartPos.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\ref\QuickMartPos.dll
+C:\Users\Administrator\source\repos\QuickMartPos\QuickMartPos\obj\Debug\net10.0\QuickMar.5CBD7A1A.Up2Date
